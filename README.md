@@ -16,7 +16,6 @@
 - Node.js
   
 - MySQL
-- MongoDB
 - Git & GitHub
 
 
